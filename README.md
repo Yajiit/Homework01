@@ -1,3 +1,14 @@
+# Homework 01 HTML, CSS, and Git: Code Refactor
+
+## First Week's Challenge Homework
+
+This is the the challenge homework, "01 HTML, CSS, and Git: Code Refactor," for the first week of bootcamp.
+The goal of this project was to increase my familiarity with each of HTML, CSS, and Git through a hands on approach.
+I've gained experience in structuring semantic HTML elements in a logical order, proper usage of alt tags, providing descriptive webpage titles, organizing/labeling a stylesheet, and pushing it all through Git.
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
